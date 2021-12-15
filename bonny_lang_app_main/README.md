@@ -1,3 +1,13 @@
+## TalkNative
+
+TalkNative is a web application that aids individuals in Nigeria to learn and communicate with their native language more effectively.
+
+Links:
+
+https://www.figma.com/file/8nW9nABVC5AdiCwT3QskAy/Untitled-(Copy)?node-id=137%3A42
+
+https://docs.google.com/document/d/1z6dke2H_fpgB4qxeevyntfwQcQQ-Ar67Y3slORuqvhw/edit
+
 _Technologies used for this app_
 
 1. HTML5
